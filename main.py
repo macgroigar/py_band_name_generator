@@ -9,6 +9,6 @@
 #5. Make sure the input cursor shows on new line.
 
 print("Welcome to the band name genie.")
-city = input("what city or town are you from?")
+city = input("what city or town are you from?\n")
 pet = input("what's your pets name?\n")
 print("Your bands name is " + city + " " + pet)
